@@ -1,0 +1,17 @@
+{
+    "name": "ImpianKu - Wujudkan Mimpimu",
+    "short_name": "ImpianKu",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4f46e5",
+    "description": "Aplikasi pencatat target impian yang diperlakukan seperti hutang agar lebih disiplin mencapainya.",
+    "icons": [
+        {
+            "src": "/logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
